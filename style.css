@@ -1,0 +1,39 @@
+body {
+	background: #383636;
+	margin: 0;
+}
+header{
+	color:white;
+	letter-spacing: 2px;
+	font-family: 'Rubik Wet Paint', cursive;
+	height: 6%;
+	width: 100%;
+	background:black;
+	text-align: center;
+}
+#container {
+	text-align:center;
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+	color:#f73482;
+	margin: auto;
+	width:700px;
+	height:90%;
+	background:rgb(43 43 43);
+	background-repeat: no-repeat;
+}
+#btn{
+	color: white;
+	letter-spacing: 2px;
+	font-family: 'Oswald', sans-serif;
+	font-weight: bold;
+	margin: auto
+	height: 30px;
+	width: 70px;
+	border: none;
+	background: rgba(28, 28, 28, 0.2);
+}
+.no{
+	border: none;
+	height: 21px;
+}
